@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"Jumpsuit",
+        "price": 200,
+        "image": "images/jumpsuit.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Kids Dress",
+        "price": 250,
+        "image": "images/kids.webp"
+    },
+    {
+        "id": 3,
+        "name":"Hoodie",
+        "price": 290,
+        "image": "images/hood.webp"
+    },
+    {
+        "id": 4,
+        "name":" Jackets",
+        "price": 200,
+        "image": "images/Winter.webp"
+    },
+    {
+        "id": 5,
+        "name":" Denims",
+        "price": 300,
+        "image": "images/denims.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Formals",
+        "price": 200,
+        "image": "images/seaters.webp"
+    },
+    {
+        "id": 7,
+        "name":" Dresses",
+        "price": 200,
+        "image": "images/floral.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Perfume",
+        "price": 200,
+        "image": "images/perfume.webp"
+    }
+
+]
